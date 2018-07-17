@@ -1,0 +1,1 @@
+This repository contains sample code from a live production project. It gives a brief overview of the scalablity of the simulation models, useful in a manufacturing environment with a plethora of product families and mixes. Open source packages are extensively used.
