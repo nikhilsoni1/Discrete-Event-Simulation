@@ -12,3 +12,4 @@ The 'er1' and 'Hawk_Cell' programs are extensively used for the following:
     2. Scenario Analysis
     3. Identifying bottlnecks
     4. Identifying crossover points (in terms of resource utilization or production volumes) from mixed product manufacturing to cellular         manufacturing
+    5. KPI dashboards
