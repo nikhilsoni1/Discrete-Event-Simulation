@@ -4,7 +4,7 @@ File descriptions:
 
     1. er1: Simulation model of a mixed product machining system with 5 operations. (The database stream is removed)
     2. Hawk_Cell: Simulation model of a single product cellular machining. (The database stream is removed)
-    3. lead_time0.1: Calculates the lead time for all or specific products for a given period of time. Fetches data in real-time from            factory floor sensors (Databse credentials removed)
+    3. lead_time0.1: Calculates the lead time for all or specific products for any given period of time. Fetches data in real-time from            factory floor sensors (Databse credentials removed)
     
 The 'er1' and 'Hawk_Cell' programs are extensively used for the following:
 
