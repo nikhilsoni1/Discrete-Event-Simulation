@@ -3,6 +3,10 @@ This repository contains sample code from a live production project. It gives a 
 File descriptions:
 
     1. er1: Simulation model of a mixed product machining system with 5 operations. (The database stream is removed)
+        1.1 Number of Machines: 9
+        1.2 Number of fixtures (heteregenous): 26
+        1.3 Number of Stations: 5
+        1.4 Products: 7
     2. Hawk_Cell: Simulation model of a single product cellular machining. (The database stream is removed)
     3. lead_time0.1: Calculates the lead time for all or specific products for any given period of time. Fetches data in real-time from            factory floor sensors (Databse credentials removed)
     
